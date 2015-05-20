@@ -4,6 +4,7 @@ AddGTestSuite(C-api-tests)
 # -----------------------------------------------------------------------------
 AddSTPGTest(array-cvcl-02.cpp)
 AddSTPGTest(array-ite.cpp)
+AddSTPGTest(array-extensionality.cpp)
 AddSTPGTest(b4-c2.cpp)
 AddSTPGTest(b4-c.cpp)
 AddSTPGTest(getbv.cpp)
